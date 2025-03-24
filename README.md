@@ -1,16 +1,15 @@
 # Project Proposal for CounterSpeech Modeling
 
 **Authors**:  
-- First Author  
-  *Affiliation / Address line 1*  
-  *Affiliation / Address line 2*  
-  [email@domain](mailto:email@domain)  
+- Anant Kumar Kaushal 
+  anant22067@iiitd.ac.in
 
-- Second Author  
-  *Affiliation / Address line 1*  
-  *Affiliation / Address line 2*  
-  [email@domain](mailto:email@domain)
+- Anikait Agrawal
+  anikait22072@iiitd.ac.in
 
+- Ansh Varshney
+  ansh22083@iiitd.ac.in
+  
 ---
 
 ## Introduction
